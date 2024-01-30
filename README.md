@@ -1,7 +1,5 @@
 ## Eu sou o Raphael Lima
 
-🌱Estudando Front-End
-💻Trabalhando com Suporte
 
 <div>
   <a href="https://github.com/raphalimax">
